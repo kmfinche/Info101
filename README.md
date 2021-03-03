@@ -1,3 +1,3 @@
 # Info101
 
-Welcome to Info I101/ CSCI B100
+Welcome to Info I101/ CSCI B100.
